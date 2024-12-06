@@ -1,7 +1,7 @@
 ---
 name: "[WR] yyymmdd"
 about: Weekly Report
-title: ''
+title: "[WR] yymmdd"
 labels: weekly report
 assignees: ''
 
